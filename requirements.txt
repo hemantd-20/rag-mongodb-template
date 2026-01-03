@@ -1,0 +1,11 @@
+pymongo
+openai
+# gemini-python
+streamlit
+google-genai
+google-generativeai
+langchain
+langchain_community
+pypdf
+langchain-openai
+langchain-google-genai
